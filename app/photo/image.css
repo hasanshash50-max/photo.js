@@ -36,7 +36,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 5px;
+    left: -5px;
     top: 70px;
 }
 #two1{
@@ -46,7 +46,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 116px;
+    left: 115px;
     top: 70px;
 }
 #three1{
@@ -56,7 +56,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 230px;
+    left: 234px;
     top: 70px;
 }
 #four1{
@@ -86,7 +86,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 5px;
+    left: -5px;
     top: 245px;
 }
 #seven{
@@ -96,7 +96,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 116px;
+    left: 115px;
     top: 245px;
 }
 #eight{
@@ -106,7 +106,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 230px;
+    left: 234px;
     top: 245px;
 }
 h2{
