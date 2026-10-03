@@ -15,57 +15,57 @@ export default function () {
     function image1() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image1.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     function image2() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image2.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     function image3() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image3.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     function image4() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image4.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
      function image5() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image5.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     function image6() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image6.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     function image7() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image7.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     function image8() {
         let images = document.getElementById('images');
         images.innerHTML = '<img src="/image8.png">';
-        images.firstChild.style.width = "400px";
-        images.firstChild.style.height = "400px";
+        images.firstChild.style.width = "350px";
+        images.firstChild.style.height = "350px";
         images.firstChild.style.borderRadius = "200px";
     }
     return (
