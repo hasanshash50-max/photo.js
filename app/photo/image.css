@@ -8,13 +8,13 @@ div#images{
     border: solid 2px gold;
     border-radius: 200px;
     box-shadow: 1px 1px 10px 2px yellow;
-    width: 400px;
-    height: 400px;
-    margin: -30px auto;
+    width: 350px;
+    height: 350px;
+    margin: auto;
 }
 div#button{
-    width: 400px;
-    height: 400px;
+    width: 300px;
+    height: 300px;
     margin: 20px auto;
     position: relative;
 }
@@ -35,17 +35,17 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 20px;
+    left: -25px;
     top: 70px;
 }
 #two1{
     background: blue;
     color: #fff;
-    padding: 10px;
+    padding: 10px ;
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 156px;
+    left: 110px;
     top: 70px;
 }
 #three1{
@@ -55,7 +55,7 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 300px;
+    left: 244px;
     top: 70px;
 }
 #four1{
@@ -65,8 +65,8 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 90px;
-    top: 170px;
+    left: 46px;
+    top: 160px;
 }
 #five{
     background: #a200ff;
@@ -75,8 +75,8 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 220px;
-    top: 170px;
+    left: 180px;
+    top: 160px;
 }
 #six{
     background: #00ffff;
@@ -85,8 +85,8 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 20px;
-    top: 270px;
+    left: -25px;
+    top: 254px;
 }
 #seven{
     background: #e5ff00;
@@ -95,8 +95,8 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 156px;
-    top: 270px;
+    left: 110px;
+    top: 254px;
 }
 #eight{
     background: #ff00b3;
@@ -105,8 +105,8 @@ button:hover{
     border: none;
     border-radius: 5px;
     position: absolute;
-    left: 300px;
-    top: 270px;
+    left: 244px;
+    top: 254px;
 }
 h2{
     border-radius: 8px;
@@ -115,8 +115,8 @@ h2{
     text-align: center;
     font-family: serif;
     font-size: 40px;
-    margin-top: 108px;
-    margin-left: 48px;
+    margin-top: 83px;
+    margin-left: 23px;
 }
 #basic{
     margin: 10px 5px;
