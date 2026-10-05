@@ -18,7 +18,7 @@ export default function Api() {
   }, []);
 
   function handleSearch() {
-    const found = data
+    let found = data
       .slice(0, 6)
       .filter((show) =>
         show.name.toLowerCase().includes(search.toLowerCase())
@@ -96,7 +96,7 @@ export default function Api() {
           </h4>
 
           <Link
-            href="https://www.imdb.com/title/tt1553656/"
+            href="https://www.youtube.com/underthedome"
             target="_blank"
           >
             <button id="watch">▶️ whatch</button>
